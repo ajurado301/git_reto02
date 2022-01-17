@@ -15,8 +15,8 @@
 #   .gitignore
     Cuando subimos los cambios al repositiorio omite los archivos especificados en .gitignore en este caso los archivos con extensión png de las carpetas especificadas:
 
-    reto_2\*.png
-    reto_3\*.png
-    reto_4\*.png
+        reto_2/*.png
+        reto_3/*.png
+        reto_4/*.png
     
     Nota: El proyecto de git a partir del reto 2 le he llamado git_reto02 así que el resto de retos se han hecho sobre este. Añado también el resto de carpetas de capturas que he ido creando en este proyecto
